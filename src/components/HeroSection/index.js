@@ -6,7 +6,7 @@ import Fade from 'react-reveal/Fade';
 import Zoom from 'react-reveal/Zoom';
 
 import { HeroContainer, VideoImg, HeroBg, VideoBg,HeroContent, HeroH1, HeroP, HeroBtnWrapper, ArrowForward, ArrowRight } from './HeroElement'
-import { MobileIcon } from '../Navbar/NavbarElements';
+
 
 const getVideoSrc = width => {
     if (width >= 720) 

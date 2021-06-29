@@ -1,0 +1,129 @@
+.row {
+    color: white;
+    padding-bottom: 50px;
+    background-color: #FFC074;
+    /* min-height: 100vh; */
+}
+.row_posters {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+
+.contentfx {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imgfx {
+    width: auto;
+    height: 100%;
+}
+
+.imgfx img {
+    object-fit: contain;
+    height: 320px;
+    width: 450px
+    ;
+}
+
+.subheading {
+    color: #000;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 0;
+}
+
+.subheading h2 {
+    margin-bottom: 10px;
+}
+
+.heading {
+    width: 100%;
+    text-align: center;
+    padding: 100px;
+}
+
+
+.list-group {
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5px;
+}
+
+.list-group-p {
+    position: relative;
+    font-size: 1.3rem;
+}
+
+.list-group-p::before {  
+    transform: scaleX(0);
+    transform-origin: bottom right;
+  }
+  
+  .list-group-p:hover::before {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+  
+  .list-group-p::before {
+    content: " ";
+    padding: 12px;
+    display: block;
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    inset: 0 0 0 0;
+    background: #ff7b54;
+    z-index: -1;
+    transition: transform .3s ease;
+  }
+
+.heading .h2,
+.heading p {
+    font-size: 1.5rem;
+    color: #000;
+    padding: 30px 0;
+    line-height: 1.5;
+}
+
+
+.row_posters::-webkit-scrollbar {
+    display: none;
+}
+
+.row_poster {
+    object-fit: contain;
+    width: 100%;
+    max-height: 250px;
+    margin-right: 10px;
+    transition: transform 450ms;
+}
+
+.row_poster:hover {
+    transform: scale(1.08);
+}
+
+.row_posterLarge:hover {
+    transition: scale(1.09);
+}
+
+.arrow {
+    height: 20px;
+    width: 60px;
+    position: absolute;
+    right: 0;
+    color: #ff7b54;
+}
+@media screen and (max-width: 768px) {
+    .heading {
+        padding: 100px 50px;
+    }
+    .heading p {
+        font-size: 0.9rem;
+        line-height: 1.2;  
+    }  
+}

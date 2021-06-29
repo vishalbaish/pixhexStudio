@@ -42,7 +42,7 @@ const HeroSection = () => {
             <HeroContent>
                 <HeroH1>
                 <Fade top>
-                PIXHEX ANIMATION STUDIO    
+                PIXHEX STUDIO    
                 </Fade>
                 </HeroH1>
                 <Zoom>

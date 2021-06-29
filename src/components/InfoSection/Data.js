@@ -2,7 +2,8 @@ export const homeObjOne = {
     id: 'about',
     lightBg: false,
     lightText: true,
-    src: require('../../images/reptilemain.jpeg').default,
+    desktopImg: require('../../images/reptilemain.jpeg').default,
+    mobileImg: require('../../images/mobileImg.jpg').default,
     lightTextDesc: false,
     topLine: 'About Us',
     headline: `Best picture for everyone. It’s what drives us every day.

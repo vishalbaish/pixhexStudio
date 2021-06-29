@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
-import React, { useState } from 'react'
+import React from 'react'
 import "./Row.css";
 import Zoom from 'react-reveal/Zoom';
 import Carousel from 'react-grid-carousel'

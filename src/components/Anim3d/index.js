@@ -37,6 +37,15 @@ function Anim3d() {
         {
             url : "https://drive.google.com/file/d/1BbviQjh2vLJZI6z1fYfblNvnrh1CMvdU/preview",
         },
+        {
+            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
+        },
+        {
+            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
+        },
+        {
+            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
+        },
     
     ]
     

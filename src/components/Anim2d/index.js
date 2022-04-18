@@ -51,6 +51,10 @@ function Anim2d() {
         {
             url : "https://drive.google.com/file/d/1CSli45NRCTUT4w5iJ9kemB5i4vvDeA7A/preview",
         },
+        {
+            url : "https://drive.google.com/file/d/1VPXsQOuOwGPNkVuYpCyjNBmVy5CnSoit/preview",
+        },
+        
     
     ]
 

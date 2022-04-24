@@ -20,19 +20,20 @@ function Anim3d() {
     const toggle = () => {
         setIsOpen(!isOpen)
     }
+//     <iframe src="https://drive.google.com/file/d/1vp3HdxybBaBmUvc9FhtRnsO-STt7rADe/preview" width="640" height="480" allow="autoplay"></iframe>
 
     const Movies3d = [
         {
-            url : "https://drive.google.com/file/d/1vp3HdxybBaBmUvc9FhtRnsO-STt7rADe/view?usp=drivesdk",
+            url : "https://drive.google.com/file/d/1vp3HdxybBaBmUvc9FhtRnsO-STt7rADe/preview",
         },
         {
-            url : "https://drive.google.com/file/d/1D-LqBThaM5OoiONdyoOCKAx9K1ss6Ukn/view?usp=drivesdk",
+            url : "https://drive.google.com/file/d/1D-LqBThaM5OoiONdyoOCKAx9K1ss6Ukn/preview",
         },
         {
-            url : "https://drive.google.com/file/d/172mVMX6MQlmn4Z0hIqyRVS2-8s_vgNvF/view?usp=drivesdk",
+            url : "https://drive.google.com/file/d/172mVMX6MQlmn4Z0hIqyRVS2-8s_vgNvF/preview",
         },
         {
-            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/view?usp=drivesdk",
+            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
         },
     
     ]

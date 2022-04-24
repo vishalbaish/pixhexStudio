@@ -23,28 +23,16 @@ function Anim3d() {
 
     const Movies3d = [
         {
-            url : "https://drive.google.com/file/d/16MXCfM9-wCIEyLQOgkADKg13OuBWaRHE/preview",
+            url : "https://drive.google.com/file/d/1vp3HdxybBaBmUvc9FhtRnsO-STt7rADe/view?usp=drivesdk",
         },
         {
-            url : "https://drive.google.com/file/d/1WMIFtIA06Mk8HGna_3H5yW12wFVeyRdJ/preview",
+            url : "https://drive.google.com/file/d/1D-LqBThaM5OoiONdyoOCKAx9K1ss6Ukn/view?usp=drivesdk",
         },
         {
-            url : "https://drive.google.com/file/d/1zE53kgfdDK5BL15OHbs075ju7uEAk5_I/preview",
+            url : "https://drive.google.com/file/d/172mVMX6MQlmn4Z0hIqyRVS2-8s_vgNvF/view?usp=drivesdk",
         },
         {
-            url : "https://drive.google.com/file/d/15np3H7CWqVBj7nSQRM_vWwThCN0S0QrZ/preview",
-        },
-        {
-            url : "https://drive.google.com/file/d/1BbviQjh2vLJZI6z1fYfblNvnrh1CMvdU/preview",
-        },
-        {
-            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
-        },
-        {
-            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
-        },
-        {
-            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/preview",
+            url : "https://drive.google.com/file/d/1D0tD3BdDeWlvyeEl0n5u0CLZq-QTuoZd/view?usp=drivesdk",
         },
     
     ]
